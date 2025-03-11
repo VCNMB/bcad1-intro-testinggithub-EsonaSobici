@@ -19,5 +19,5 @@ public class PrjClasses {
         nc.helloClass();   
         
          System.out.println(nc.strSecondClassVar);
-    }
+    }                                                                                         
 }
